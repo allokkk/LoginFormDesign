@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="pinkish">#B37695</color>
+    <color name="blue">#5D5CD3</color>
+    <color name="purple">#8168C3</color>
+    <color name="green">#38A88E</color>
+    <color name="light_purple_v1">#B97EF1</color>
+    <color name="light_purple_v2">#C575F6</color>
+    <color name="tab_btn_bg_color">#c775f8</color>
+    <color name="white">#ffffff</color>
+</resources>
